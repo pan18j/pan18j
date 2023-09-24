@@ -1,5 +1,4 @@
 # Ola! Eu sou o jhesse 🙋 
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https//:www.panjhesse18@gmail.com).
 
 ![jefferson GitHub stats](https://github-readme-stats.vercel.app/api?username=pan18j&show_icons=true&theme=radical) 
 
